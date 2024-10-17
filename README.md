@@ -38,6 +38,12 @@ https://github.com/user-attachments/assets/e587bfee-c847-4c94-ab1f-25d92b320ffd
 
 
 
+
+https://github.com/user-attachments/assets/32254b0d-c3cf-4ad9-9eb6-6e601b3f28d8
+
+
+
+
 ## Folder Descriptions:
 
 - Descriptions: Contains example music tracks and videos generated from image descriptions.
