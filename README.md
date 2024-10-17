@@ -31,14 +31,23 @@ Music has the power to evoke emotions, even for those who cannot see the visual 
 
 
 
-https://github.com/user-attachments/assets/01a315f6-6ae5-4ef2-82bb-f8b68281c109
+
+
+https://github.com/user-attachments/assets/ade82f3f-f7f1-494f-bcd9-7032d25067b1
+
+
 
 
 
 ### Look at the intensity of the sound!
 
 
+
+
+
 https://github.com/user-attachments/assets/32254b0d-c3cf-4ad9-9eb6-6e601b3f28d8
+
+
 
 
 
