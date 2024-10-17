@@ -3,8 +3,9 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/" width="15px">
+  <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/" width="500" height="300"/>
     <img src="Logo/logo.jpeg" alt="Logo Badge"/>
+    Click on the logo to discover more on the Nasa Space App Challenge!
   </a>
 </div>
 
