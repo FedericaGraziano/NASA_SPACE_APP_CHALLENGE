@@ -26,15 +26,13 @@ In our project, we extract image descriptions using API requests to ChatGPT. The
 
 Music has the power to evoke emotions, even for those who cannot see the visual beauty captured by the James Webb Space Telescope. Once the audio is generated, it is combined with a video that displays the waveform of the music. Simultaneously, the accompanying image pulsates in sync with the beats, allowing individuals who are deaf or hard of hearing to intuitively perceive the rhythm of the music through visual cues. This approach aims to create a richer, more inclusive experience by bridging sensory gaps.
 
-<div id="badges" align="center">
-    <img img src="Selected5Images/PillarsOfCreation.jpg" width="400" height="400"/>
-</div>
-
 
 ### Enjoy this ambient piano music for the Pillars of Creation within the Eagle Nebula!
 
 
-https://github.com/user-attachments/assets/d9afe69c-1dcb-4ab2-958c-5a855e5621c8
+
+https://github.com/user-attachments/assets/01a315f6-6ae5-4ef2-82bb-f8b68281c109
+
 
 
 ### Look at the intensity of the sound!
