@@ -31,7 +31,7 @@ Music has the power to evoke emotions, even for those who cannot see the visual 
 </div>
 
 
-https://github.com/user-attachments/assets/b7e18366-5940-4c5a-a57d-9bf05ada301e
+
 
 
 ## Folder Descriptions:
