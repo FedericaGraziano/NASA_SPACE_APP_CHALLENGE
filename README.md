@@ -3,7 +3,7 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://https://www.spaceappschallenge.org/nasa-space-apps-2024/">
+  <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/" width="15px">
     <img src="Logo/logo.jpeg" alt="Logo Badge"/>
   </a>
 </div>
