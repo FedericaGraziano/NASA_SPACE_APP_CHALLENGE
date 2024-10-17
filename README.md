@@ -33,7 +33,7 @@ Music has the power to evoke emotions, even for those who cannot see the visual 
 
 
 <div id="video" align="center">
-    [<img img src="Logo/logo.jpeg" width="200" height="200"/>](https://github.com/user-attachments/assets/ade82f3f-f7f1-494f-bcd9-7032d25067b1)
+    https://github.com/user-attachments/assets/ade82f3f-f7f1-494f-bcd9-7032d25067b1
 </div>
 
 
