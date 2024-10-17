@@ -33,7 +33,6 @@ Music has the power to evoke emotions, even for those who cannot see the visual 
 
 <div align="center">
   <a href="https://github.com/user-attachments/assets/ade82f3f-f7f1-494f-bcd9-7032d25067b1">
-    <img src="Selected5Images/PillarsOfCreation.jpg" width="500" height="500" />
   </a>
 </div>
 
