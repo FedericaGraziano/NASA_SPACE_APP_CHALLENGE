@@ -3,9 +3,8 @@
 </h1>
 
 <div id="badges" align="center">
-  
-    <img src="Logo/logo.jpeg" alt="Logo Badge"/ >
-
+    <a img src="Logo/logo.jpeg" alt="Logo Badge"/ >
+  </a>
 </div>
 
 <div id="badges" align="center">
