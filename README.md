@@ -3,7 +3,7 @@
 </h1>
 
 <div id="badges" align="center">
-    <img img src="Logo/logo.jpeg" width="50" height="50"/>
+    <img img src="Logo/logo.jpeg" width="200" height="200"/>
 </div>
 
 <div id="badges" align="center">
