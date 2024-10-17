@@ -31,16 +31,16 @@ Music has the power to evoke emotions, even for those who cannot see the visual 
 </div>
 
 
+### Enjoy this ambient piano music for the Pillars of Creation within the Eagle Nebula!
 
 
-https://github.com/user-attachments/assets/e587bfee-c847-4c94-ab1f-25d92b320ffd
+https://github.com/user-attachments/assets/d9afe69c-1dcb-4ab2-958c-5a855e5621c8
 
 
-
+### Look at the intensity of the sound!
 
 
 https://github.com/user-attachments/assets/32254b0d-c3cf-4ad9-9eb6-6e601b3f28d8
-
 
 
 
