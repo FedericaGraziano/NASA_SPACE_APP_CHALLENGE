@@ -26,6 +26,14 @@ In our project, we extract image descriptions using API requests to ChatGPT. The
 
 Music has the power to evoke emotions, even for those who cannot see the visual beauty captured by the James Webb Space Telescope. Once the audio is generated, it is combined with a video that displays the waveform of the music. Simultaneously, the accompanying image pulsates in sync with the beats, allowing individuals who are deaf or hard of hearing to intuitively perceive the rhythm of the music through visual cues. This approach aims to create a richer, more inclusive experience by bridging sensory gaps.
 
+<div id="badges" align="center">
+    <img img src="Selected5Images/PillarsOfCreation.jpg" width="400" height="400"/>
+</div>
+
+
+https://github.com/user-attachments/assets/b7e18366-5940-4c5a-a57d-9bf05ada301e
+
+
 ## Folder Descriptions:
 
 - Descriptions: Contains example music tracks and videos generated from image descriptions.
